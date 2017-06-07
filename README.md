@@ -1,4 +1,4 @@
-A newer version of the code is available at [DAVIS 2017](https://github.com/fperazzi/davis-2017)
+### A newer version of the code is available at [DAVIS 2017](https://github.com/fperazzi/davis-2017)
 
 A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation (DAVIS)
 =====================================================================================
